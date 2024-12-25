@@ -1,0 +1,27 @@
+#whatsapp-button{
+    width: 80%;
+    margin: 0px;
+    padding: 10px 40px;
+    background-color: #00a884;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+.input-text{
+    width: 300px;
+    padding: 12px 16px;
+    font-size: 16px;
+    font-family: "Lato", serif;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.3s ease;
+    background-color: #f9f9f9;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
