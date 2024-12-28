@@ -1,4 +1,4 @@
-
+console.log('hola')
 jQuery(document).ready(function($) {
     const postalCodeInput = $('#custom_postal_code');
     const addToCartButton = $('.single_add_to_cart_button');
